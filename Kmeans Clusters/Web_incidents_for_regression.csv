@@ -1,0 +1,842 @@
+caller_id,u_affected_user,u_affected_user.location,priority,state,assignment_group,assigned_to,sys_updated_by,u_choice_2,category,incident_state,contact_type,business_service,date_diff
+Amrita Zachariah,Amrita Zachariah,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,JRNI,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"172,800"
+Paul Nightingale,Paul Nightingale,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"259,200"
+Haree Virdee,Haree Virdee,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"288,000"
+Simon Stodel,Simon Stodel,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"86,400"
+Shabnum Ali,Shabnum Ali,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"65,252"
+Joshua Aptroot,Joshua Aptroot,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,Office 365 - Apps,"115,200"
+,,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"1,382,400"
+Christina OHaire,Christina OHaire,Lynton House,5 - Mini Project,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,www.redbridge.gov.uk ,"7,430,400"
+Terrence Leung,Terrence Leung,,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Regeneration and Culture,,Closed,Self Service,JRNI,"115,200"
+Leena Gorasia,Leena Gorasia,HASS - Seven Kings,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,People,,Closed,Self Service,www.redbridge.gov.uk ,356
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Communities,,Closed,Self Service,,"115,200"
+Ferzanah Ahmed,Ferzanah Ahmed,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,PowerApps,"115,200"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Communities,,Closed,Self Service,,"115,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"201,600"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"316,838"
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"174,880"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,Training/ Inquiry / Help,Closed,Email,my.redbridge.gov.uk,"174,395"
+Anjali Kumar,Anjali Kumar,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Regeneration and Culture,,Closed,Self Service,JRNI,"87,301"
+Magali Cattell,Hayley Corke,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Public Microsites,"86,400"
+,,,3 - Moderate,Closed,Web & Digital,,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,,0
+Michael Cooper,Michael Cooper,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"292,354"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"115,200"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"115,200"
+Dexsha Mevada,Dexsha Mevada,Town Hall,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Abu Zahed,Abu Zahed,118-120 High Road,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"119,466"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"152,299"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"662,611"
+Olumuyiwa Oshunrinde,Olumuyiwa Oshunrinde,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,JRNI,"784,814"
+Lisa Wilson,Lisa Wilson,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,PowerApps,"143,183"
+Rehan Khan,Rehan Khan,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Phone,intranet,0
+Denise Mercer,Duncan Whitfield,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,PowerApps,631
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"3,626"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Kelly Butler,Vince Kane,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,0
+Magali Cattell,Chris Merchant,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Sharepoint,"57,600"
+Iwona Paszkiewicz,Iwona Paszkiewicz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,,"115,200"
+Jackie Cox,Jackie Cox,Lynton House,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,PowerApps,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Babinder Bassan,Babinder Bassan,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,JRNI,224
+Carmel Grant,Carmel Grant,Orchard Housing Office,4 - Low,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"691,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"288,000"
+Tiffany Beagle,Tiffany Beagle,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,idp.redbridge.gov.uk,"28,800"
+Lorraine Harrison,Lorraine Harrison,,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,www.redbridge.gov.uk ,0
+Nayab Nasir-Iqbal,Nayab Nasir-Iqbal,,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,,"57,600"
+Magali Cattell,Sanjiv Luckhea,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Strategy,,Closed,Self Service,PowerApps,0
+Paul Yates,Paul Yates,Ley Street Depot,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Ronan Rusu,Ronan Rusu,,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,JRNI,"201,600"
+Shaida Dar,Shaida Dar,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,JRNI,"201,600"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Martin Nichol,Martin Nichol,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,,"102,027"
+Cornelia Sarody,Cornelia Sarody,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,www.redbridge.gov.uk ,"633,600"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"2,828,424"
+Daniel Crawley,Daniel Crawley,,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Strategy,,Closed,Self Service,PowerApps,"28,800"
+Abu Zahed,Abu Zahed,118-120 High Road,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Phone,www.redbridge.gov.uk ,0
+Kohginy Vadachellum,Kohginy Vadachellum,Lynton House,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,Strategy,,Closed,Self Service,PowerApps,"112,592"
+Emma Vick,Emma Vick,Town Hall,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Phone,intranet,"662,400"
+Faiza Israth,Faiza Israth,,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,idp.redbridge.gov.uk,"178,198"
+Carmel Grant,Carmel Grant,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"2,246,400"
+Hephzibah Susaimuthu,Hephzibah Susaimuthu,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"209,353"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,668
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"918,000"
+Duncan Crow,Duncan Crow,,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"255,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"1,666,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"572,400"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,intranet,"86,400"
+Hephzibah Susaimuthu,Hephzibah Susaimuthu,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"8,089,200"
+Nicola Peachey,Nicola Peachey,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,idp.redbridge.gov.uk,"229,138"
+Christina OHaire,Christina OHaire,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,intranet,"28,800"
+Sadia Patel,Sadia Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"28,800"
+,,,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"57,600"
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"28,800"
+Jazmin Stanton,Jazmin Stanton,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"88,952"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Tom Blackwell,Tom Blackwell,Central Library,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Vision RCL,,Closed,Self Service,Server Services,"115,200"
+Matthew Traves,Matthew Traves,Orchard Children's Centre,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"32,487"
+Simon James,Simon James,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,my.redbridge.gov.uk,"12,282,319"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"292,479"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"216,448"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,,"313,200"
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"29,017"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Christopher Anderson,Christopher Anderson,Lynton House,5 - Mini Project,Closed,Web & Digital,Kim Flaxman,system,Regeneration and Culture,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Manjit Notta,Zulfiqar Mulak,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,PowerApps,"115,200"
+Sharifa Motala,Sharifa Motala,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,intranet,"28,800"
+Iwona Paszkiewicz,,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Joseph Roberts,Joseph Roberts,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,Third party websites,"201,600"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,0
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"144,000"
+Amar Bansil,Amar Bansil,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"4,633,200"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Chloe Cato,Chloe Cato,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"58,564"
+Sara-Jane Hedaux,Sara-Jane Hedaux,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"806,400"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"28,800"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"230,400"
+Malik Diop,Malik Diop,,4 - Low,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Phone,intranet,0
+Rachel McLoughlin,Rachel McLoughlin,,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,JRNI,0
+Angela Doak,Angela Doak,Ley Street Depot,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,JRNI,0
+Christopher Anderson,Christopher Anderson,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Regeneration and Culture,,Closed,Self Service,my.redbridge.gov.uk,"28,946"
+Gemma Seabrook,Gemma Seabrook,Station Road Centre,3 - Moderate,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,www.redbridge.gov.uk ,0
+Deirdre Walsh,Deirdre Walsh,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,intranet,"432,000"
+Trusha Patel,Trusha Patel,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Norah Kerwegi,Norah Kerwegi,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,JRNI,"774,000"
+Haree Virdee,Haree Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"28,800"
+Sarah Piercy,Sarah Piercy,Lynton House,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,RPA Service,"1,724,400"
+Sarah Piercy,Sarah Piercy,Lynton House,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,RPA Service,"1,724,400"
+Ethan Namugera,Ethan Namugera,,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"408,784"
+Ruksana Ali,Ruksana Ali,Town Hall,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Self Service,JRNI,"28,800"
+Amrita Zachariah,Amrita Zachariah,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Heather Espeute,Heather Espeute,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"2,223,337"
+Suki Boparai,Suki Boparai,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"1,591,178"
+Sara-Jane Hedaux,Sara-Jane Hedaux,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"15,632,528"
+Roselinder Alozie,Roselinder Alozie,,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,intranet,"1,036,800"
+Sarah Holmes,Sarah Holmes,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,intranet,"230,400"
+Farah Chaudhry,Farah Chaudhry,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Jocelyn Astle,Duncan Crow,,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,PowerApps,"86,400"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,382,400"
+Iwona Paszkiewicz,Samantha Neal,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Jyotsna Chauhan,Jyotsna Chauhan,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,JRNI,"172,800"
+Jordan Phillips,Nicholas Brown,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,PowerApps,"7,768,592"
+Suki Boparai,Suki Boparai,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Email,my.redbridge.gov.uk,"607,847"
+Trusha Patel,Jack Garfinkel,,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,Google Analytics,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"572,400"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Kajal TavaresDaSilva,Kajal TavaresDaSilva,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,PowerApps,"203,306"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Lisa Ronsholt,Lisa Ronsholt,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Server Services,"57,600"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,801"
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"576,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"62,900"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"7,228,239"
+Rasesh Patel,Rasesh Patel,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"15,576,059"
+Michelle Davis,Michelle Davis,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Resources,,Closed,Self Service,intranet,"921,600"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"28,800"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Hollie Martin,Hollie Martin,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,intranet,"28,800"
+Nick Chester,Nick Chester,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Email,my.redbridge.gov.uk,0
+Sally Davy,Sally Davy,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"3,140,086"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"905,186"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"907,339"
+Gillian Morgan,Gillian Morgan,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,intranet,"489,600"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,859"
+Trusha Patel,Trusha Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,cms.redbridge.gov.uk,"1,388"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"260,853"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"261,166"
+Hogarth Pierre,Hogarth Pierre,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Phone,intranet,"28,800"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Sadia Patel,Sadia Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"201,600"
+Steve Weston,Steve Weston,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,Training/ Inquiry / Help,Closed,Email,www.redbridge.gov.uk ,"86,400"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Sara-Jane Hedaux,Sara-Jane Hedaux,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"5,104,688"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,180,800"
+Chloe Cato,Chloe Cato,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Gemma Seabrook,Gemma Seabrook,Station Road Centre,3 - Moderate,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,www.redbridge.gov.uk ,"86,400"
+Sharon Blaize,Uzma Rehman,,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Regeneration and Culture,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,intranet,"28,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"148,817"
+Malik Diop,Malik Diop,,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Phone,intranet,"59,543"
+Shabnum Ali,Shabnum Ali,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,my.redbridge.gov.uk,"3,020,400"
+Amardeep Sanger,Amardeep Sanger,Ley Street Depot,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,983
+Hephzibah Susaimuthu,,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"89,530"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"85,605"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"265,562"
+Smitha Sebastian,Smitha Sebastian,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"57,600"
+Haroon Jiwan,Haroon Jiwan,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,JRNI,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"345,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,699,200"
+Hiba Butt,Hiba Butt,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Julie Clist,Julie Clist,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"345,600"
+Hephzibah Susaimuthu,Hephzibah Susaimuthu,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"86,400"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Suki Boparai,Suki Boparai,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,015,115"
+John Lee,John Lee,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Phone,intranet,"1,487"
+Julie Rees,Julie Rees,,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,PowerApps,"403,200"
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"458,849"
+Angela Doak,Angela Doak,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,General,"1,036,800"
+Barbara Kakoulli,Berners-Lee Snow,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,idp.redbridge.gov.uk,"708,881"
+Suki Boparai,Berners-Lee Snow,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Email,my.redbridge.gov.uk,"426,717"
+Suzanne Wright,Suzanne Wright,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,People,,Closed,Self Service,PowerApps,"232,693"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+Duncan Crow,Adrian Kerr,,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Strategy,,Closed,Self Service,PowerApps,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Denise Baker,Denise Baker,,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,Public Microsites,0
+Helen Carroll,Helen Carroll,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,PowerApps,"57,600"
+Sharifa Motala,Sharifa Motala,Ley Street Depot,4 - Low,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,intranet,"138,878"
+Amar Bansil,Amar Bansil,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"979,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"979,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,intranet,"28,800"
+Abaigeal Cole,Abaigeal Cole,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"8,085,600"
+Trayanka Orlinova,Trayanka Orlinova,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"717,437"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"460,800"
+Corinne Barrett,Corinne Barrett,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,Public Microsites,"115,200"
+Shashi Chhabra,Shashi Chhabra,,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Self Service,intranet,"88,543"
+Trusha Patel,Trusha Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"97,013"
+Haroon Jiwan,Web & Digital,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,617,062"
+Aslam Ali,Aslam Ali,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"183,578"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"172,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"172,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"492,626"
+Anusha Jehanmohan,Anusha Jehanmohan,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,intranet,"547,200"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Pardeep Chaggar,Pardeep Chaggar,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Hephzibah Susaimuthu,Hephzibah Susaimuthu,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Cassandra Christie,Cassandra Christie,Oakfield Lodge,3 - Moderate,Closed,Web & Digital,,system,People,,Closed,Self Service,,0
+Smitha Sebastian,Smitha Sebastian,,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,JRNI,"115,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"11,683"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"66,575"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"2,398,016"
+Chisom Ikechukwu,Chisom Ikechukwu,,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Phone,JRNI,"748,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Simon Stodel,Simon Stodel,Ley Street Depot,4 - Low,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,www.redbridge.gov.uk ,"4,402,800"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Ruksana Ali,Ruksana Ali,Town Hall,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,JRNI,"1,422,639"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"172,800"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Paree Bhanu,Paree Bhanu,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"432,000"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"9,593"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"403,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Sharon Strutt,Sharon Strutt,Lynton House,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Regeneration and Culture,,Closed,Self Service,PowerApps,"116,639"
+Khadeja Khanom,Khadeja Khanom,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,PowerApps,"27,064"
+Jacqueline Anel,Jacqueline Anel,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,intranet,0
+Mohammed Munir,Mohammed Munir,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"217,718"
+Nayab Nasir-Iqbal,Nayab Nasir-Iqbal,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"720,000"
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"633,600"
+Andrew Smith,Andrew Smith,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Regeneration and Culture,,Closed,Self Service,JRNI,"201,600"
+Sarah Zheng,Sarah Zheng,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"1,756,800"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"201,600"
+Beverley Skinner,Beverley Skinner,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Public Microsites,"30,995"
+Michael Cooper,Michael Cooper,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"26,161"
+Jyotsna Chauhan,Jyotsna Chauhan,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,Network Services,"31,108"
+Magali Cattell,Andrew Reeve,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Strategy,,Closed,Self Service,PowerApps,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Trayanka Orlinova,Trayanka Orlinova,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"2,123"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Phone,my.redbridge.gov.uk,"9,251,146"
+Shikisha Husbands,Shikisha Husbands,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Trusha Patel,Jonti Eccles,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,Google Analytics,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+di Poltorak,di Poltorak,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,intranet,266
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Nicola Peachey,Nicola Peachey,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Joseph Roberts,Joseph Roberts,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,www.redbridge.gov.uk ,"4,701"
+Joanne Smallman,Joanne Smallman,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,PowerApps,"28,800"
+Lorna Biddell,Lorna Biddell,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"288,000"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Trusha Patel,Trusha Patel,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"748,800"
+Jacqueline Anel,Jacqueline Anel,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Public Microsites,"390,439"
+Ola Okeowo,Ola Okeowo,Station Road Centre,3 - Moderate,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"777,600"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"27,471"
+Nayab Nasir-Iqbal,Nayab Nasir-Iqbal,,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Sharon Rehal,Sharon Rehal,Town Hall,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"374,400"
+Essie Cato,Essie Cato,Town Hall,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Self Service,JRNI,"57,600"
+Paul Nightingale,Paul Nightingale,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"115,200"
+Denise Mercer,Denise Mercer,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Resources,,Closed,Self Service,PowerApps,0
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"634,567"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Chloe Cato,Chloe Cato,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"2,367,565"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"345,600"
+Ethan Namugera,Ethan Namugera,,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,,"633,600"
+Mikhail Mohammed,Mikhail Mohammed,,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"30,029"
+Barbara Ramsey Christian,Barbara Ramsey Christian,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,eforms.redbridge.gov.uk,"259,200"
+Carmel Grant,Carmel Grant,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"172,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Chisom Ikechukwu,Chisom Ikechukwu,,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"518,400"
+Malik Diop,Malik Diop,,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Phone,eforms.redbridge.gov.uk,"374,400"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"288,000"
+Debbie Melchor,Colin Stewart,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,PowerApps,"201,600"
+Joanne Woodley,Joanne Woodley,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Simon Stodel,Simon Stodel,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"1,382,400"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,my.redbridge.gov.uk,"288,000"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,my.redbridge.gov.uk,"950,400"
+Trusha Patel,Trusha Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Duncan Crow,Flora Osiyemi,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,PowerApps,"230,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"237,863"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Diane Martin,Diane Martin,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,Regeneration and Culture,,Closed,Self Service,PowerApps,"89,019"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"547,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Nicola Blatchford,Nicola Blatchford,,3 - Moderate,Closed,Web & Digital,Kane Henry,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Cornelia Sarody,Cornelia Sarody,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"486,000"
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"163,371"
+Jeet Jutlay,Jeet Jutlay,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,JRNI,"28,800"
+Agnes Adrien,Agnes Adrien,,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Phone,intranet,"2,613"
+Kelly Jeyarajah,Kelly Jeyarajah,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Self Service,idp.redbridge.gov.uk,"432,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"12,585"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"9,565"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Chloe Cato,Chloe Cato,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Chloe Cato,Chloe Cato,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,pay.redbridge.gov.uk,"57,600"
+Andrew Reed,Andrew Reed,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,eforms.redbridge.gov.uk,"57,600"
+Claire Diallo,Claire Diallo,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Vision RCL,,Closed,Self Service,intranet,"201,600"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Jeet Jutlay,Julian Ellerby,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Strategy,,Closed,Self Service,PowerApps,"35,082"
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Abu Siddik,Abu Siddik,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"252,739"
+Denise Mercer,Denise Mercer,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Self Service,Public Microsites,"137,977"
+Julie Rees,John Anthony,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,PowerApps,"201,600"
+Dorothy Mwami,Dorothy Mwami,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"57,600"
+Dorothy Mwami,Dorothy Mwami,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"57,600"
+Beth Mathieson,Beth Mathieson,Ley Street Depot,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"144,000"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Emily McLoughlin,Emily McLoughlin,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"8,899"
+Debbie Sinclair,Dawn Cove,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,PowerApps,"5,645,194"
+Jocelyn Astle,Jocelyn Astle,,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Strategy,,Closed,Self Service,PowerApps,"28,800"
+Nayab Nasir-Iqbal,Nayab Nasir-Iqbal,,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,www.redbridge.gov.uk ,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Farah Chaudhry,Farah Chaudhry,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Farah Chaudhry,Farah Chaudhry,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,www.redbridge.gov.uk ,"36,029"
+Sharn Cunningham,Sharn Cunningham,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Software,"86,400"
+Martin Nichol,Martin Nichol,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"2,081"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,,"28,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Hephzibah Susaimuthu,Hephzibah Susaimuthu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Sital Sehmi,Sital Sehmi,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,793,029"
+Christopher Anderson,Christopher Anderson,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Regeneration and Culture,,Closed,Self Service,www.redbridge.gov.uk ,"28,800"
+Laurina Joseph,Laurina Joseph,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Diana Vallejo,Diana Vallejo,Central Library,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Vision RCL,,Closed,Self Service,Sharepoint,"144,000"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Duncan Crow,Flora Osiyemi,,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"489,600"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"144,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Haree Virdee,Haree Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"288,000"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Melinda Simon,Melinda Simon,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,intranet,"9,784,800"
+Simon Stodel,Simon Stodel,Ley Street Depot,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"345,358"
+Helen O'Toole,Helen O'Toole,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Chief Executive & Corporate Directors,,Closed,Email,PowerApps,"403,200"
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"461,307"
+Sara-Jane Hedaux,Sara-Jane Hedaux,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"662,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"489,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"489,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"29,883"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"29,688"
+Lisa Rawlings,Lisa Rawlings,Station Road Centre,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,,"144,000"
+Sally Davy,Sally Davy,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"518,400"
+Kelly Jeyarajah,Kelly Jeyarajah,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,my.redbridge.gov.uk,"547,200"
+Sara-Jane Hedaux,Sara-Jane Hedaux,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Sarah Zheng,Sarah Zheng,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"7,311,600"
+Trusha Patel,Trusha Patel,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,cms.redbridge.gov.uk,"201,600"
+Gemma Seabrook,Gemma Seabrook,Station Road Centre,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,"293,901"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Abu Siddik,Abu Siddik,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Email,eforms.redbridge.gov.uk,"5,727,600"
+Samantha Randolphe,Samantha Randolphe,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,intranet,"403,200"
+Sandra Danquah,Sandra Danquah,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"116,133"
+Tessa Joseph,Tessa Joseph,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Regeneration and Culture,,Closed,Self Service,my.redbridge.gov.uk,566
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"115,200"
+Mehboob Khan,Mehboob Khan,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"518,400"
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Simon Turner,Simon Turner,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,intranet,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Harjit Matharu,Harjit Matharu,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,PowerApps,"1,123,200"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Denise Mercer,Tim Troy,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Self Service,PowerApps,"57,600"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+di Poltorak,di Poltorak,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,intranet,0
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,Server Services,"146,578"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Samantha Jones,Samantha Jones,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"576,000"
+William Davies2,William Davies2,,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Self Service,Modern Gov,0
+Ian Ambrose,Ian Ambrose,Lynton House,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Self Service,PowerApps,"57,600"
+Denise Mercer,Ian Ambrose,Lynton House,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Self Service,PowerApps,0
+Amar Bansil,Amar Bansil,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"57,600"
+Maria Gerring,Maria Gerring,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,Lee.Bowers@redbridge.gov.uk,Regeneration and Culture,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"547,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"701,864"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"172,800"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"172,800"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"172,800"
+Rasheeda St-Louis,Rasheeda St-Louis,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,idp.redbridge.gov.uk,"174,825"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"374,580"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,"8,345"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"57,600"
+Jacob Meyer,Jacob Meyer,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"345,600"
+Abu Siddik,Abu Siddik,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,"8,478"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"28,800"
+Rachel McLoughlin,Rachel McLoughlin,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Zenab Patel,Zenab Patel,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+AJ Sangha,AJ Sangha,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Phone,PowerApps,"259,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Abu Siddik,Abu Siddik,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Amarjot Mudhar,Nida Khanam,,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Self Service,intranet,0
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,idp.redbridge.gov.uk,"57,600"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Kali Johal,Kali Johal,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,intranet,0
+Amar Bansil,Amar Bansil,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"57,600"
+Melanie Hall,Melanie Hall,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"2,806"
+Nafisa Bor,Nafisa Bor,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,idp.redbridge.gov.uk,96
+Denise Mercer,Denise Mercer,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,PowerApps,0
+Amrita Zachariah,Amrita Zachariah,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,0
+Jyotsna Chauhan,Jyotsna Chauhan,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Angela Benta,Angela Benta,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,intranet,0
+Julie Bryant,Julie Bryant,Town Hall,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"2,242,800"
+Alkesh Solanki,Alkesh Solanki,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Rebecca Gray,Rebecca Gray,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"57,600"
+Jennifer Small,Jennifer Small,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,www.redbridge.gov.uk ,0
+Denise Mercer,Ian Ambrose,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,PowerApps,"57,600"
+Haree Virdee,Haree Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"921,600"
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Sital Sehmi,Sital Sehmi,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,NEC DM (Communities),"576,000"
+Farah Chaudhry,Farah Chaudhry,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Tiffany Beagle,Tiffany Beagle,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,idp.redbridge.gov.uk,"403,200"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"518,400"
+Shana Vincent,Shana Vincent,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,my.redbridge.gov.uk,"372,169"
+Mohammed Munir,Mohammed Munir,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"351,347"
+Amirah Fareed,Amirah Fareed,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"115,200"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"961,810"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"8,807,109"
+Daniel Crawley,Daniel Crawley,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,PowerApps,"144,000"
+Dexsha Mevada,Dexsha Mevada,Town Hall,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,JRNI,"1,590,153"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"144,000"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"94,760"
+Abaigeal Cole,Abaigeal Cole,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"2,480,224"
+Naomi Blake,Naomi Blake,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Regeneration and Culture,,Closed,Self Service,eforms.redbridge.gov.uk,"9,957,600"
+Merry Collins,Merry Collins,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,,"5,209,200"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"460,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Sanjan Haque,Sanjan Haque,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Other System,0
+Emily McLoughlin,Emily McLoughlin,Ley Street Depot,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Chief Executive & Corporate Directors,,Closed,Self Service,intranet,"28,800"
+Emily McLoughlin,Emily McLoughlin,Ley Street Depot,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Chief Executive & Corporate Directors,,Closed,Self Service,intranet,0
+Gemma Seabrook,Gemma Seabrook,Station Road Centre,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,People,,Closed,Self Service,www.redbridge.gov.uk ,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+AJ Sangha,Sanjiv Luckhea,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,PowerApps,"28,800"
+Maureen Soliman,Maureen Soliman,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,cms.redbridge.gov.uk,"121,730"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,036,800"
+Adam Swift,Adam Swift,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,www.redbridge.gov.uk ,"144,000"
+Stacey Santos Mota,,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,246,727"
+Abaigeal Cole,Solomon Disekpobagha,Lynton House,5 - Mini Project,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"748,800"
+Sarah Piercy,EXTDominic Davidson,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,RPA Service,"432,000"
+Tom Blackwell,Tom Blackwell,Central Library,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Vision RCL,,Closed,Self Service,Server Services,"345,284"
+Andrew Reed,Andrew Reed,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,redbridgescp.org.uk,"1,728,000"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"172,055"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Miriam Mark,Miriam Mark,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,www.redbridge.gov.uk ,"28,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"60,109"
+Emma Baker,Emma Baker,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Strategy,,Closed,Self Service,intranet,"7,196,400"
+Dexsha Mevada,Dexsha Mevada,Town Hall,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"6,312,367"
+Duncan Crow,Christopher Michael,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,PowerApps,"28,800"
+Duncan Crow,Duncan Crow,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"10,422,000"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"172,800"
+Taslima Jamila,Taslima Jamila,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,intranet,"114,091"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Kim Flaxman,Kim Flaxman,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"144,000"
+Anita Seaton,Anita Seaton,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,0
+Trusha Patel,Trusha Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Server Services,0
+Mohammed Munir,Mohammed Munir,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Ruksana Ali,Javeeria Hasan,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,my.redbridge.gov.uk,0
+Helen Carroll,Duncan Crow,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,PowerApps,"86,981"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,534"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,123,200"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"374,400"
+Trusha Patel,Trusha Patel,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,cms.redbridge.gov.uk,"172,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"66,752"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"123,756"
+Anita Seaton,Anita Seaton,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"57,600"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"604,800"
+Sadia Patel,Sadia Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"57,600"
+Tiffany Beagle,Tiffany Beagle,,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Self Service,idp.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Amardeep Sanger,Amardeep Sanger,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"863,884"
+David Oyenuga,David Oyenuga,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Amardeep Sanger,Amardeep Sanger,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,my.redbridge.gov.uk,"11,080,800"
+Dhiresh Bhatt,Dhiresh Bhatt,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Communities,,Closed,Self Service,www.redbridge.gov.uk ,269
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Phone,eforms.redbridge.gov.uk,"6,769,028"
+Anita Seaton,Anita Seaton,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,intranet,"28,955"
+Christian Frederick,Christian Frederick,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,intranet,"57,600"
+Sarah Piercy,EXTChris Bunce,,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,User Profile,"16,833"
+Julie Rees,Sanjiv Luckhea,Lynton House,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Strategy,,Closed,Self Service,PowerApps,"144,000"
+Samantha Powley,Samantha Powley,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Resources,,Closed,Self Service,intranet,0
+Christian Frederick,Christian Frederick,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"152,113"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"152,488"
+Chloe Cato,Chloe Cato,Lynton House,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"89,896"
+Chris Stewart,Chris Stewart,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Phone,idp.redbridge.gov.uk,"145,835"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Andrew Reed,Andrew Reed,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"265,255"
+Kashi Bhanji,Kashi Bhanji,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Regeneration and Culture,,Closed,Self Service,JRNI,0
+Magali Cattell,Magali Cattell,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,PowerApps,"28,800"
+Fiona ORegan,Fiona ORegan,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,searching.redbridge.gov.uk (Funnelback),"4,978,800"
+Abaigeal Cole,Abaigeal Cole,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,RPA Service,"5,209,200"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Abu Siddik,Tahirah Khatun,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Celia Munoz Gonzalez,Celia Munoz Gonzalez,Hyleford Hostel (temp accomodation),3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,intranet,"28,800"
+Iwona Paszkiewicz,Iwona Paszkiewicz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Ruth Newell,Ruth Newell,Gearies Childrens Centre,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Denise Mercer,Ian Ambrose,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Resources,,Closed,Self Service,PowerApps,"57,600"
+Denise Mercer,Tim Troy,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Self Service,Public Microsites,"28,800"
+Olumuyiwa Oshunrinde,Olumuyiwa Oshunrinde,,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,JRNI,"460,800"
+Julie Clist,Julie Clist,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Amar Bansil,Amar Bansil,Lynton House,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"180,329"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"172,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+AJ Sangha,Sanjiv Luckhea,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,PowerApps,"28,417"
+Michael Cooper,Michael Cooper,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Christina Stylianou,Christina Stylianou,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,Sharepoint,"115,200"
+Nayab Nasir-Iqbal,Nayab Nasir-Iqbal,,3 - Moderate,Closed,Web & Digital,Kane Henry,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Helen Carroll,Helen Carroll,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Self Service,PowerApps,"201,600"
+Beverley Skinner,Beverley Skinner,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Merry Collins,Merry Collins,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"28,800"
+Abu Siddik,Abu Siddik,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,681,001"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,292"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"268,563"
+Joanne Woodley,Joanne Woodley,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,my.redbridge.gov.uk,0
+Solomon Marfo,Solomon Marfo,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,intranet,"4,978,800"
+Simon James,Simon James,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,"921,600"
+Stacey Santos Mota,Stacey Santos Mota,Orchard Housing Office,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Suki Boparai,Suki Boparai,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"3,202"
+Monique Walters,Monique Walters,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,intranet,0
+Maureen Soliman,Maureen Soliman,Orchard Housing Office,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"86,400"
+Dhiresh Bhatt,Dhiresh Bhatt,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,intranet,"172,800"
+Suzanne Lansley,Suzanne Lansley,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Regeneration and Culture,,Closed,Self Service,,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"288,000"
+Gwendolyn Renwick,Dawn Cove,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,intranet,0
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"645,464"
+Simon Turner,Simon Turner,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,intranet,"1,263,600"
+Christian Frederick,Christian Frederick,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"35,312"
+Leigh Crockett,Leigh Crockett,Town Hall,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,my.redbridge.gov.uk,"7,388"
+Laki Begum,Laki Begum,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"671,066"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"147,723"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"633,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"847,701"
+Christopher Anderson,Christopher Anderson,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Regeneration and Culture,,Closed,Self Service,JRNI,0
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,pay.redbridge.gov.uk,"95,792"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Paul McKenna,Paul McKenna,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,www.redbridge.gov.uk ,"172,800"
+Trayanka Orlinova,Trayanka Orlinova,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"691,200"
+Simon Stodel,Simon Stodel,Ley Street Depot,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Anila Baleta,Anila Baleta,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Regeneration and Culture,,Closed,Self Service,JRNI,"28,800"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Kishan Vadher,Kishan Vadher,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"144,000"
+Diane Walker,Diane Walker,Lynton House,4 - Low,Closed,Web & Digital,Kram Ali,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"15,707,914"
+Jonathan Wooldridge,Caroline Oliver,,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,PowerApps,"57,600"
+Antoinette Davis,Antoinette Davis,Town Hall,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"2,016,000"
+Shazia Khan,Shazia Khan,Central Library,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Regeneration and Culture,,Closed,Phone,JRNI,"57,600"
+Callum Church,Callum Church,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,my.redbridge.gov.uk,"232,488"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"320,254"
+Carla Ralph,Carla Ralph,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Trusha Patel,Trusha Patel,Lynton House,2 - High,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,cms.redbridge.gov.uk,"3,657,600"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Swintzer Bowa,Swintzer Bowa,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,JRNI,"662,400"
+Trusha Patel,Trusha Patel,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"780,390"
+Gwendolyn Renwick,Gwendolyn Renwick,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,intranet,"57,600"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Gemma Seabrook,Gemma Seabrook,Station Road Centre,4 - Low,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,www.redbridge.gov.uk ,"1,853,972"
+Hiba Butt,Hiba Butt,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"114,517"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,"86,168"
+Helen O'Toole,Helen O'Toole,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Chief Executive & Corporate Directors,,Closed,Email,PowerApps,"147,112"
+Haree Virdee,Haree Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"34,667"
+Tom Blackwell,Tom Blackwell,Central Library,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Vision RCL,,Closed,Self Service,Sharepoint,"115,200"
+Deirdre Walsh,Deirdre Walsh,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"115,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"36,324"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"28,800"
+Esther Cole,Esther Cole,Station Road Centre,4 - Low,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Phone,intranet,"115,200"
+Raidat Suleiman,Raidat Suleiman,,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"28,800"
+Abu Siddik,Abu Siddik,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,my.redbridge.gov.uk,"316,800"
+Paul Nightingale,Paul Nightingale,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Dexsha Mevada,Dexsha Mevada,Town Hall,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,JRNI,0
+Simon James,Simon James,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,my.redbridge.gov.uk,"2,417,375"
+Hiba Butt,Hiba Butt,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"518,400"
+Dexsha Mevada,Dexsha Mevada,Town Hall,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Self Service,JRNI,0
+Sheila Virdee,Sheila Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Sheila Virdee,Sheila Virdee,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Email,eforms.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Haree Virdee,Haree Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Jocelyn Astle,Jocelyn Astle,,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,PowerApps,0
+Michael Cooper,Michael Cooper,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,cms.redbridge.gov.uk,"172,800"
+Malik Diop,Malik Diop,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"144,000"
+Jordan Phillips,Marian Fagbebe,,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,PowerApps,"172,800"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"777,600"
+Sarah Zheng,Sarah Zheng,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"2,304,000"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Jason Wong,Jason Wong,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Self Service,my.redbridge.gov.uk,"172,800"
+Trushna Patel,Carol Hinvest,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,PowerApps,"719,841"
+Dawn Hennessy,Dawn Hennessy,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Regeneration and Culture,,Closed,Self Service,intranet,"806,400"
+Frankie Messingham,Berners-Lee Snow,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,my.redbridge.gov.uk,"144,000"
+Kerri Richards,Kerri Richards,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Email,my.redbridge.gov.uk,"212,267"
+Kerri Richards,Kerri Richards,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"28,800"
+Amar Bansil,Amar Bansil,Lynton House,5 - Mini Project,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"2,678,400"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+Barry Wells,Kiranjit Riyat,,3 - Moderate,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,intranet,"3,830,400"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Joanne Martin,Joanne Martin,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Self Service,JRNI,"28,800"
+Kelechi Nwulu,Omotunde Ogunjebe,,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Vanessa Brennan,Vanessa Brennan,Station Road Centre,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Phone,Server Services,"86,400"
+Sangita Patel,Aarti Ramachandran,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Self Service,PowerApps,"892,800"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Communities,,Closed,Self Service,,"403,200"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"278,396"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"172,800"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"18,234"
+Anita Seaton,Anita Seaton,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Amreek Hothi,Amreek Hothi,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,data.redbridge.gov.uk,"11,286,161"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"374,400"
+Emma Fitzgerald,,,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Farah Chaudhry,Farah Chaudhry,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,idp.redbridge.gov.uk,"144,000"
+Gary Dye,Gary Dye,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,Server Services,"1,699,200"
+Gary Dye,Gary Dye,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,Server Services,"432,000"
+Farah Chaudhry,Diane Lott,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,my.redbridge.gov.uk,"124,974"
+Maureen Soliman,Maureen Soliman,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,www.redbridge.gov.uk ,"498,624"
+Duncan Crow,Julian Ellerby,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,Public Microsites,"4,073"
+Karen Golding,Karen Golding,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Regeneration and Culture,,Closed,Self Service,eforms.redbridge.gov.uk,"3,945,600"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Amrita Zachariah,Amrita Zachariah,,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"86,400"
+Beverley Skinner,Beverley Skinner,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,699,200"
+Haree Virdee,Haree Virdee,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Gillian Morgan,Helen Anthony,Station Road Centre,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,PowerApps,0
+Manmohan Sually,Manmohan Sually,,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,People,,Closed,Self Service,intranet,"201,600"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,Civica Pay,"203,753"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,716"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Harjit Matharu,Harjit Matharu,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,PowerApps,"3,164,400"
+Nazmeen Rashid,Nazmeen Rashid,,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,idp.redbridge.gov.uk,"86,400"
+Hephzibah Susaimuthu,Hephzibah Susaimuthu,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Andrew Reed,Andrew Reed,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,redbridgescp.org.uk,"28,800"
+Christopher Anderson,Christopher Anderson,Lynton House,5 - Mini Project,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Regeneration and Culture,,Closed,Self Service,JRNI,"115,200"
+Sally Davy,Chris Stewart,,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Denise Campbell,Denise Campbell,Town Hall,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Ebenezer Sarpong,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"230,400"
+Amardeep Sanger,Amardeep Sanger,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"28,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Christina Stylianou,Christina Stylianou,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"2,131,200"
+Harjit Matharu,Harjit Matharu,Lynton House,5 - Mini Project,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,PowerApps,"4,863,600"
+Haree Virdee,Haree Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Email,my.redbridge.gov.uk,"4,727,863"
+Iwona Paszkiewicz,Iwona Paszkiewicz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,idp.redbridge.gov.uk,0
+Sandra Danquah,Sandra Danquah,,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"979,200"
+Beverley Skinner,Beverley Skinner,Lynton House,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"604,800"
+Amardeep Sanger,Amardeep Sanger,Ley Street Depot,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"691,200"
+Mark Tookey,Mark Tookey,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Phone,idp.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+Merry Collins,Merry Collins,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Ann-Marie Finan,Ann-Marie Finan,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Regeneration and Culture,,Closed,Self Service,eforms.redbridge.gov.uk,"835,200"
+Sonia Brathwaite,Sonia Brathwaite,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"230,400"
+Babinder Bassan,Babinder Bassan,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,JRNI,"1,177,200"
+Jacqueline Anel,Jacqueline Anel,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Strategy,,Closed,Self Service,intranet,"199,255"
+Mohammad Rahman,Mohammad Rahman,,3 - Moderate,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,intranet,"27,365"
+Haree Virdee,Haree Virdee,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"432,000"
+Michael Cooper,Michael Cooper,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,www.redbridge.gov.uk ,"115,200"
+Samantha Jones,Samantha Jones,,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,idp.redbridge.gov.uk,"432,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Anthony Hartigan,Anthony Hartigan,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,0
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"201,600"
+Denise Mercer,Denise Mercer,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Resources,,Closed,Self Service,PowerApps,"84,917"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Sheila Virdee,Sheila Virdee,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,intranet,0
+Haree Virdee,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Anita Seaton,Anita Seaton,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"3,588"
+Abaigeal Cole,Abaigeal Cole,Lynton House,5 - Mini Project,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,Public Microsites,"864,000"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,0
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,0
+Andrew Reed,Andrew Reed,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,redbridgescp.org.uk,"4,027"
+Lorna Rodden,Donna Anderssen,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,Strategy,,Closed,Self Service,intranet,"1,299"
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Beverley Skinner,Beverley Skinner,Lynton House,3 - Moderate,Closed,Web & Digital,Jeremy Ranger-Green,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,881"
+Anusha Jehanmohan,Anusha Jehanmohan,Lynton House,4 - Low,Closed,Web & Digital,Jeremy Ranger-Green,system,Resources,,Closed,Self Service,PowerApps,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Kelly Jeyarajah,Kelly Jeyarajah,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Self Service,my.redbridge.gov.uk,"547,200"
+Christopher Anderson,Christopher Anderson,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Regeneration and Culture,,Closed,Self Service,eforms.redbridge.gov.uk,"28,800"
+Chriss Donn,Chriss Donn,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Regeneration and Culture,,Closed,Self Service,cms.redbridge.gov.uk,"230,400"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Jacqueline Anel,Jacqueline Anel,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Strategy,,Closed,Self Service,Public Microsites,"298,172"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"201,600"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"633,600"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"288,000"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,,"288,000"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"633,600"
+Ethan Namugera,Ethan Namugera,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,,"201,600"
+Adam Swift,Adam Swift,Lynton House,3 - Moderate,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Julie Rees,Colin Stewart,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,PowerApps,"144,000"
+Zenab Patel,Zenab Patel,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Sameera Ramzan,Sameera Ramzan,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,PowerApps,0
+Haree Virdee,Haree Virdee,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Ann Butler,Ann Butler,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Strategy,,Closed,Self Service,intranet,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"28,800"
+Chloe Cato,Chloe Cato,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"28,800"
+Sam Kay,Sam Kay,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,my.redbridge.gov.uk,0
+Chris Truelove,Chris Truelove,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,People,,Closed,Self Service,eforms.redbridge.gov.uk,"115,200"
+Bill Baine,Bill Baine,Elderberries Day Centre,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Self Service,ServiceNow Admin Work,0
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,People,,Closed,Self Service,my.redbridge.gov.uk,779
+Krisztina Vamos,Krisztina Vamos,Ley Street Depot,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"777,600"
+Jeet Jutlay,Jeet Jutlay,Lynton House,3 - Moderate,Closed,Web & Digital,Kim Flaxman,system,Strategy,,Closed,Self Service,JRNI,"720,000"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Dexsha Mevada,Dexsha Mevada,Town Hall,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Resources,,Closed,Self Service,JRNI,"2,304,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Paree Bhanu,Paree Bhanu,Lynton House,3 - Moderate,Closed,Web & Digital,Ebenezer Sarpong,system,Strategy,,Closed,Self Service,eforms.redbridge.gov.uk,"374,400"
+Emma Honis,Emma Honis,Lynton House,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"115,200"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"864,000"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Keran Chudasama,Keran Chudasama,Lynton House,4 - Low,Closed,Web & Digital,Clive Davis,system,Resources,,Closed,Self Service,data.redbridge.gov.uk,"374,400"
+Abu Siddik,Abu Siddik,Lynton House,3 - Moderate,Closed,Web & Digital,Babar Mahmood,system,People,,Closed,Self Service,my.redbridge.gov.uk,"86,400"
+Andrew Richards,Andrew Richards,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Konrad Gasior,system,Communities,,Closed,Self Service,intranet,0
+Dhiresh Bhatt,Dhiresh Bhatt,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Phone,my.redbridge.gov.uk,"172,800"
+Simon Stodel,Simon Stodel,Ley Street Depot,4 - Low,Closed,Web & Digital,Kim Flaxman,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,0
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Emily McLoughlin,Emily McLoughlin,Ley Street Depot,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,idp.redbridge.gov.uk,0
+Julie Warren,Julie Warren,Town Hall,4 - Low,Closed,Web & Digital,Konrad Gasior,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,my.redbridge.gov.uk,0
+Saffron McMahon,Saffron McMahon,Ley Street Depot,3 - Moderate,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"432,000"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Carla Ralph,Carla Ralph,Lynton House,3 - Moderate,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Email,my.redbridge.gov.uk,0
+Frankie Messingham,Frankie Messingham,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"921,600"
+Sarah-Jane Butler,Sarah-Jane Butler,Orchard Housing Office,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,Civica Pay,"28,800"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,,"230,400"
+Tasneem Choudhury,Tasneem Choudhury,,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Strategy,,Closed,Self Service,intranet,"28,800"
+Martin Nichol,Martin Nichol,Lynton House,3 - Moderate,Closed,Web & Digital,Jemima Gaddam,Lee.Bowers@redbridge.gov.uk,Resources,,Closed,Self Service,www.redbridge.gov.uk ,"86,400"
+Dawn Cove,Dawn Cove,Lynton House,3 - Moderate,Closed,Web & Digital,Kenneth Chin,system,Resources,,Closed,Self Service,PowerApps,"26,074"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Alkesh Solanki,Alkesh Solanki,Lynton House,4 - Low,Closed,Web & Digital,Kenneth Chin,system,Communities,,Closed,Self Service,Third party websites,0
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"57,600"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Kim Flaxman,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Carmel Grant,Carmel Grant,Orchard Housing Office,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"57,600"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Babar Mahmood,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,0
+Uzma Chishti,Uzma Chishti,,4 - Low,Closed,Web & Digital,Nicola Peachey,system,People,,Closed,Self Service,intranet,0
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"259,200"
+Sue Woodhull,Sue Woodhull,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,Resources,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"28,800"
+Nabilah Shahid,Nabilah Shahid,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"28,800"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Trayanka Orlinova,Trayanka Orlinova,Lynton House,4 - Low,Closed,Web & Digital,Jemima Gaddam,system,Communities,,Closed,Self Service,eforms.redbridge.gov.uk,"374,400"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"69,033"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"69,941"
+Shalinaaz Aziz,Shalinaaz Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,0
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Kane Henry,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"115,200"
+Debbie Melchor,Debbie Melchor,Ray Lodge Childrens Centre,4 - Low,Closed,Web & Digital,Clive Davis,system,People,,Closed,Self Service,eforms.redbridge.gov.uk,"2,613,121"
+ShazadAli Aziz,ShazadAli Aziz,Lynton House,4 - Low,Closed,Web & Digital,Nicola Peachey,Lee.Bowers@redbridge.gov.uk,Communities,,Closed,Self Service,my.redbridge.gov.uk,"28,800"
+Sara-Jane Hedaux,Sara-Jane Hedaux,Ley Street Depot,5 - Mini Project,Closed,Web & Digital,Clive Davis,system,Communities,,Closed,Self Service,my.redbridge.gov.uk,"1,609,200"
+Paree Bhanu,Paree Bhanu,Lynton House,4 - Low,Closed,Web & Digital,Konrad Gasior,system,People,,Closed,Scheduled Task,eforms.redbridge.gov.uk,"28,800"
