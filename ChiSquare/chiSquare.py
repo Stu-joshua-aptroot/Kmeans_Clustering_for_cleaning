@@ -31,6 +31,6 @@ print(" - chi_square_summary.csv")
 
 alpha = 0.05  
 if p < alpha:
-    print("\n🔴 Significant Relationship Found: Departments are likely linked to specific IT issues.")
+    print(" Significant Relationship Found: Departments are likely linked to specific IT issues.")
 else:
-    print("\n🟢 No Significant Relationship: Issue types are evenly distributed across departments.")
+    print(" No Significant Relationship: Issue types are evenly distributed across departments.")
